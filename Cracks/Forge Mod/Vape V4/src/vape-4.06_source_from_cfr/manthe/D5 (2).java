@@ -1,0 +1,23 @@
+/*
+ * Decompiled with CFR 0.150.
+ */
+package manthe;
+
+import manthe.DU;
+import manthe.sk;
+
+class D5
+extends DU {
+    final sk e;
+
+    D5(sk sk2, double d10, double d11, double d12, double d13) {
+        this.e = sk2;
+        super(d10, d11, d12, d13);
+    }
+
+    @Override
+    public double d() {
+        return sk.a(this.e);
+    }
+}
+

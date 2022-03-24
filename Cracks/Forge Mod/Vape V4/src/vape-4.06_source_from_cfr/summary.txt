@@ -1,0 +1,30 @@
+Summary for /www/javadecompilers/app/public/data/24.03.22/f92d70ddc4870ffb7007654d13fc8833/vape-4.06.jar
+Decompiled with CFR 0.150
+
+
+javassist.bytecode.CodeIterator
+----------------------------
+
+insertGap2w(byte[] int int boolean java.util.List<javassist.bytecode.CodeIterator$Branch> javassist.bytecode.CodeIterator$Pointers )
+  Unable to fully structure code
+
+
+manthe.on
+----------------------------
+
+<init>()
+  Unable to fully structure code
+
+
+org.objectweb.asm.ClassReader
+----------------------------
+
+readStream(java.io.InputStream boolean )
+  Loose catch block
+
+
+org.objectweb.asm.signature.SignatureReader
+----------------------------
+
+parseType(java.lang.String int org.objectweb.asm.signature.SignatureVisitor )
+  Unable to fully structure code
